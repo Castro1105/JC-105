@@ -1,0 +1,58 @@
+
+header{
+    background-color: blue;
+    color: aqua;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: aqua;
+    height: 100px;
+    font-size: 3em;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    color: black; 
+}
+body{
+    background-color: lightslategray;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+form{
+    background: rgb(101, 97, 97);
+    padding: 35px;
+    color: aqua;
+    width: 80%;
+    margin: 20px auto;
+}
+form h3{
+    color: rgb(30, 8, 109);
+    margin: 20px 10px 10px --15px;
+}
+input[type=text]{
+    width: 20%;
+    padding: 5px;
+    border-radius: 15px;
+    border: 2px solid rgb(244, 0, 69);
+    margin: 10px;
+}
+textarea{
+    border-radius: 15px;
+    padding: 15px;
+    border: 2px solid rgb(244, 0, 69);
+}
+form select{
+    font-size: 1.2em;
+    padding: 10px;
+}
+form input:focus{
+    background-color: beige;
+}
+form input{
+    font-size: 1.2em;
+}
+submit{
+    color: azure;
+}
