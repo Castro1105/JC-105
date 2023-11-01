@@ -1,0 +1,55 @@
+:root{
+    --dark-primary-color:#616161;
+    --light-primary-color:#4FC3F7;
+    --primary-color:#009688;
+    --text-icons:#FFFFFF;
+    --accent-color:#F44336;
+    --primary-text:#B0BEC5;
+    --secondary-text:#9E9E9E;
+    --divider-color:#000000;
+    --text-font:'Playfair Display', serif;
+    --heading-font:'EB Garamond', serif;
+}
+*{
+    box-sizing: border-box;
+    overflow: auto;
+}
+body{
+    background-color: var(--dark-primary-color);
+    font-family: var(--text-font);
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    background-color: var(--accent-color);
+    color:var(--divider-color);
+}
+a{
+    background-color: var(--divider-color);
+    color: rgb(0, 242, 255);
+    text-decoration: none;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+main{
+    text-align: left;
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+    margin-top: 500px;
+    font-size: x-large;
+} 
+dt{
+    text-align: left;
+    margin-top: 15px;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    border: 80px solid blue;
+    background-color: blue;
+    font-family: var(--heading-font);
+    font-family: 'Times New Roman', Times, serif;
+}
