@@ -1,0 +1,168 @@
+h1{
+    text-align:center;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    size-adjust: auto;
+    margin: 20px 20px 20px 20px;
+    font-size: 60px;
+    border-radius: 15px;
+}
+a{
+    background-color: black;
+    color: lightskyblue;
+    font-size: x-large;
+    text-decoration: none;
+    border-radius: 20px;
+    border: 8px black solid;
+    margin-left: 40px;
+}
+header{
+    text-align: center;
+}
+a:hover{
+    background-color: lightskyblue;
+    color: black;
+    border: lightskyblue 8px solid;
+}
+body{
+    background-color: lightslategrey;
+    color: white;
+}
+#face{
+    width: 50%;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    color: rgb(44, 2, 2);
+    margin-top: 600px;
+}
+#one{
+font-size:20px;
+color: rgb(0, 0, 0);
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: justify;
+width: 800px;
+}
+.column{
+    float: left;
+    width: 50%;
+    padding: 5px;
+    margin-top: 50px;
+}
+.row{
+    content: "";
+    clear: both;
+    display: table;
+}
+*{
+    box-sizing: border-box;
+}
+#college{
+    width: 55%;
+    margin-left: 120px;
+}
+#two{
+    text-align: justify;
+    width: 470px;
+    margin-left: 10px;
+    color: black;
+    font-size: large;
+}
+#three{
+    text-align: justify;
+    color: black;
+    width: 370px;
+    margin-left: 110px;
+    font-size: large;
+}
+#factory{
+    width: 30%;
+    margin-top: 80px;
+    margin-left: 50px;
+    display: block;
+}
+#four{
+    position: absolute;
+    right: 50px;
+    width: 500px;
+    top: 230px;
+    color: black;
+    text-align: justify;
+    font-size: large;
+}
+#cook{
+    width: 30%;
+    position: absolute;
+    left: 0px;
+    top: 800px;
+    margin-left: 50px;
+    display: block;
+}
+#five{
+    position: absolute;
+    margin-top: 200px;
+    text-align: justify;
+    width: 400px;
+    margin-left: 500px;
+    color: black;
+    font-size: large;
+}
+#fish{
+    width: 40%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#six{
+    display: block;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    margin-top: 30px;
+    color: black;
+    font-size: large;
+}
+#tennis{
+    width: 50%;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#seven{
+    display: block;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    margin-top: 30px;
+    color: black;
+    font-size: large;
+}
+h2{
+    margin-top: 20px;
+    font-size:80px;
+    color: blue;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    color: lightskyblue;
+}
+ p{
+        text-align: center;
+        font-size: larger;
+        color: black;
+    }
+
